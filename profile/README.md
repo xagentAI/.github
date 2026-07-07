@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/build-passing-0A0A0A?style=flat-square" alt="build passing">
-  <img src="https://img.shields.io/badge/license-Apache_2.0-e0492a?style=flat-square" alt="Apache 2.0">
-  <img src="https://img.shields.io/badge/payments-x402-0A0A0A?style=flat-square&labelColor=d8ff00" alt="x402 payments">
-  <img src="https://img.shields.io/badge/contracts-audited-0A0A0A?style=flat-square" alt="contracts audited">
-  <img src="https://img.shields.io/badge/est.-2025-8b8b8b?style=flat-square" alt="est. 2025">
+  <img src="https://img.shields.io/badge/build-passing-2ea043?style=flat-square" alt="build passing">
+  <img src="https://img.shields.io/badge/token-%24XAGT-0A0A0A?style=flat-square" alt="$XAGT">
+  <img src="https://img.shields.io/badge/license-Apache_2.0-8b8b8b?style=flat-square" alt="Apache 2.0">
+  <img src="https://img.shields.io/badge/payments-x402-0A0A0A?style=flat-square" alt="x402 payments">
+  <img src="https://img.shields.io/badge/contracts-audited-2ea043?style=flat-square" alt="contracts audited">
 </p>
 
 <p align="center">
