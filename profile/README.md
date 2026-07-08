@@ -62,7 +62,7 @@ XAgent is designed as a product stack, not a single repository. The public surfa
 ## How It Works
 
 <div align="center">
-  <img src="./how-it-works.svg" alt="XAgent runtime pipeline from intent to hosted agent product and x402 settlement" width="100%">
+  <img src="./how-it-works.svg" alt="XAgent agent operating system workflow with mascot, runtime, marketplace, and x402 settlement" width="100%">
 </div>
 
 ## Activity
