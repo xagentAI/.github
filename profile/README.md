@@ -52,16 +52,6 @@ XAgent is an AI-native agent platform for builders who want to move from idea to
   <img src="./activity-calendar.svg" alt="XAgent public GitHub activity calendar" width="100%">
 </div>
 
-## Banner Options
-
-<details>
-  <summary>View alternate white banner directions</summary>
-  <br>
-  <img src="./hero-signal.svg" alt="XAgent signal banner" width="100%">
-  <br><br>
-  <img src="./hero-quiet.svg" alt="XAgent quiet banner" width="100%">
-</details>
-
 ## Find Us
 
 **Website** [xagt.ai](https://xagt.ai) &nbsp;/&nbsp; **Docs** [docs.xagt.ai](https://docs.xagt.ai) &nbsp;/&nbsp; **X** [@XAgent_official](https://x.com/XAgent_official)
