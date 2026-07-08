@@ -1,23 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1176 260" width="1176" height="260" font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" role="img" aria-label="XAgent — build, run and monetize AI agents.">
-  <!-- paper -->
-  <rect x="0" y="0" width="1176" height="260" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1176 360" width="1176" height="360" role="img" aria-label="XAgent - AI-native agent platform">
+  <defs>
+    <pattern id="grid" width="14" height="14" patternUnits="userSpaceOnUse">
+      <path d="M14 0H0V14" fill="none" stroke="#667A70" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#5FE3A1" stop-opacity=".92"/>
+      <stop offset=".52" stop-color="#5FE3A1" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#5FE3A1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 
-  <!-- logo: green circle + black angular X (brand mark) -->
-  <g transform="translate(72,66)">
-    <circle cx="64" cy="64" r="64" fill="#63E6A2"/>
-    <g stroke="#0A0A0A" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" fill="none">
-      <path d="M40 36 L64 62 L88 36"/>
-      <path d="M40 92 L64 66 L88 92"/>
+  <rect width="1176" height="360" fill="#FFFFFF"/>
+  <rect width="1176" height="360" fill="url(#grid)"/>
+
+  <g font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.8" fill="#8A8A8A">
+    <text x="56" y="51">XAGENT / AI-NATIVE AGENT PLATFORM</text>
+    <text x="1120" y="51" text-anchor="end">SPEAK TO BUILD / SHARE TO CONNECT</text>
+  </g>
+
+  <path d="M56 75H1120" stroke="#667A70" stroke-opacity=".18"/>
+  <path d="M56 75H160" stroke="#5FE3A1" stroke-width="1.5"/>
+  <path d="M1016 75H1120" stroke="#5FE3A1" stroke-width="1.5"/>
+
+  <g fill="none" stroke="#5FE3A1" stroke-width="2">
+    <path d="M30 102V64H70"/>
+    <path d="M1146 102V64H1106"/>
+    <path d="M30 258V296H70"/>
+    <path d="M1146 258V296H1106"/>
+  </g>
+  <g fill="#5FE3A1">
+    <rect x="20" y="54" width="7" height="7"/>
+    <rect x="1149" y="54" width="7" height="7"/>
+    <rect x="20" y="299" width="7" height="7"/>
+    <rect x="1149" y="299" width="7" height="7"/>
+  </g>
+
+  <g transform="translate(56 142)" fill="#5FE3A1" opacity=".94">
+    <rect x="0" y="54" width="6" height="18"/>
+    <rect x="12" y="36" width="6" height="36"/>
+    <rect x="24" y="18" width="6" height="54"/>
+    <rect x="36" y="30" width="6" height="42"/>
+    <rect x="48" y="0" width="6" height="72"/>
+    <rect x="60" y="44" width="6" height="28"/>
+  </g>
+
+  <text x="152" y="215" font-family="Helvetica Neue, Arial, sans-serif" font-size="112" font-weight="500" letter-spacing="-6" fill="#2D3732">XAGENT</text>
+
+  <g font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="4" fill="#2D3732">
+    <text x="158" y="257">BUILD <tspan fill="#9A9A9A">/</tspan> RUN <tspan fill="#9A9A9A">/</tspan> MONETIZE <tspan fill="#9A9A9A">AI AGENTS</tspan></text>
+  </g>
+
+  <g transform="translate(850 150)">
+    <path d="M0 0V86" stroke="#667A70" stroke-opacity=".22"/>
+    <path d="M0 0V25" stroke="#5FE3A1" stroke-width="2"/>
+    <g font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.9">
+      <text x="168" y="21" text-anchor="end" fill="#2D3732">$XAGT</text>
+      <text x="168" y="55" text-anchor="end" fill="#8A8A8A">X402 SETTLEMENT</text>
+      <text x="168" y="89" text-anchor="end" fill="#8A8A8A">TOKYO / 2025</text>
     </g>
   </g>
 
-  <!-- wordmark -->
-  <text x="248" y="128" font-size="86" font-weight="700" letter-spacing="-2.5" fill="#0A0A0A">XAgent</text>
+  <g opacity=".86">
+    <path d="M158 292H550" stroke="url(#fade)" stroke-width="1.4"/>
+    <g fill="#5FE3A1">
+      <rect x="158" y="286" width="5" height="5"/>
+      <rect x="178" y="286" width="5" height="5"/>
+      <rect x="198" y="286" width="5" height="5"/>
+      <rect x="218" y="286" width="5" height="5"/>
+      <rect x="238" y="286" width="5" height="5"/>
+    </g>
+  </g>
 
-  <!-- tagline -->
-  <text x="252" y="172" font-size="23" fill="#6b6b6b" letter-spacing="-0.2">Build, run &amp; monetize AI agents.</text>
-
-  <!-- restrained mono marks, right -->
-  <text x="1104" y="70" text-anchor="end" font-family="'SFMono-Regular', ui-monospace, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.6" fill="#8b8b8b">$XAGT</text>
-  <text x="1104" y="196" text-anchor="end" font-family="'SFMono-Regular', ui-monospace, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="2.6" fill="#8b8b8b">xagt.ai</text>
+  <path d="M56 318H1120" stroke="#667A70" stroke-opacity=".18"/>
+  <g font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.6" fill="#8A8A8A">
+    <text x="56" y="339">XAGT.AI</text>
+    <text x="588" y="339" text-anchor="middle">LANGUAGE IN / PRODUCT OUT / VALUE SETTLED</text>
+    <text x="1120" y="339" text-anchor="end">@XAGENT_OFFICIAL</text>
+  </g>
 </svg>

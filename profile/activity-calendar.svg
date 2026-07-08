@@ -1,0 +1,411 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1056 240" width="1056" height="240" role="img" aria-label="XAgent public GitHub activity calendar">
+<defs><pattern id="grid" width="14" height="14" patternUnits="userSpaceOnUse"><path d="M14 0H0V14" fill="none" stroke="#667A70" stroke-opacity=".045" stroke-width="1"/></pattern></defs>
+<rect width="1056" height="240" fill="#FFFFFF"/>
+<rect width="1056" height="240" fill="url(#grid)"/>
+<text x="34" y="42" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.4" fill="#8A8A8A">PUBLIC ACTIVITY / JUL 2025 / JUL 2026</text>
+<text x="1022" y="42" text-anchor="end" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.4" fill="#8A8A8A">9 DAYS / 6 REPOS</text>
+<path d="M34 62H1022" stroke="#667A70" stroke-opacity=".18"/>
+<path d="M34 62H150" stroke="#5FE3A1" stroke-width="1.5"/>
+<text x="88" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">JUL</text>
+<text x="152" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">AUG</text>
+<text x="232" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">SEP</text>
+<text x="296" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">OCT</text>
+<text x="360" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">NOV</text>
+<text x="440" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">DEC</text>
+<text x="504" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">JAN</text>
+<text x="568" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">FEB</text>
+<text x="632" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">MAR</text>
+<text x="712" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">APR</text>
+<text x="776" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">MAY</text>
+<text x="856" y="80" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">JUN</text>
+<text x="34" y="117" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.3" fill="#A0A0A0">MON</text>
+<text x="34" y="149" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.3" fill="#A0A0A0">WED</text>
+<text x="34" y="181" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.3" fill="#A0A0A0">FRI</text>
+<rect x="72" y="92" width="12" height="12" rx="2" fill="#FBFCFB" stroke="#F1F3F2" stroke-width="1"><title>2025-06-29: 0 public activity points</title></rect>
+<rect x="72" y="108" width="12" height="12" rx="2" fill="#FBFCFB" stroke="#F1F3F2" stroke-width="1"><title>2025-06-30: 0 public activity points</title></rect>
+<rect x="72" y="124" width="12" height="12" rx="2" fill="#FBFCFB" stroke="#F1F3F2" stroke-width="1"><title>2025-07-01: 0 public activity points</title></rect>
+<rect x="72" y="140" width="12" height="12" rx="2" fill="#FBFCFB" stroke="#F1F3F2" stroke-width="1"><title>2025-07-02: 0 public activity points</title></rect>
+<rect x="72" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-03: 0 public activity points</title></rect>
+<rect x="72" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-04: 0 public activity points</title></rect>
+<rect x="72" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-05: 0 public activity points</title></rect>
+<rect x="88" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-06: 0 public activity points</title></rect>
+<rect x="88" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-07: 0 public activity points</title></rect>
+<rect x="88" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-08: 0 public activity points</title></rect>
+<rect x="88" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-09: 0 public activity points</title></rect>
+<rect x="88" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-10: 0 public activity points</title></rect>
+<rect x="88" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-11: 0 public activity points</title></rect>
+<rect x="88" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-12: 0 public activity points</title></rect>
+<rect x="104" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-13: 0 public activity points</title></rect>
+<rect x="104" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-14: 0 public activity points</title></rect>
+<rect x="104" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-15: 0 public activity points</title></rect>
+<rect x="104" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-16: 0 public activity points</title></rect>
+<rect x="104" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-17: 0 public activity points</title></rect>
+<rect x="104" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-18: 0 public activity points</title></rect>
+<rect x="104" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-19: 0 public activity points</title></rect>
+<rect x="120" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-20: 0 public activity points</title></rect>
+<rect x="120" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-21: 0 public activity points</title></rect>
+<rect x="120" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-22: 0 public activity points</title></rect>
+<rect x="120" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-23: 0 public activity points</title></rect>
+<rect x="120" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-24: 0 public activity points</title></rect>
+<rect x="120" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-25: 0 public activity points</title></rect>
+<rect x="120" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-26: 0 public activity points</title></rect>
+<rect x="136" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-27: 0 public activity points</title></rect>
+<rect x="136" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-28: 0 public activity points</title></rect>
+<rect x="136" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-29: 0 public activity points</title></rect>
+<rect x="136" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-30: 0 public activity points</title></rect>
+<rect x="136" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-07-31: 0 public activity points</title></rect>
+<rect x="136" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-01: 0 public activity points</title></rect>
+<rect x="136" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-02: 0 public activity points</title></rect>
+<rect x="152" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-03: 0 public activity points</title></rect>
+<rect x="152" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-04: 0 public activity points</title></rect>
+<rect x="152" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-05: 0 public activity points</title></rect>
+<rect x="152" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-06: 0 public activity points</title></rect>
+<rect x="152" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-07: 0 public activity points</title></rect>
+<rect x="152" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-08: 0 public activity points</title></rect>
+<rect x="152" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-09: 0 public activity points</title></rect>
+<rect x="168" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-10: 0 public activity points</title></rect>
+<rect x="168" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-11: 0 public activity points</title></rect>
+<rect x="168" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-12: 0 public activity points</title></rect>
+<rect x="168" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-13: 0 public activity points</title></rect>
+<rect x="168" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-14: 0 public activity points</title></rect>
+<rect x="168" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-15: 0 public activity points</title></rect>
+<rect x="168" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-16: 0 public activity points</title></rect>
+<rect x="184" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-17: 0 public activity points</title></rect>
+<rect x="184" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-18: 0 public activity points</title></rect>
+<rect x="184" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-19: 0 public activity points</title></rect>
+<rect x="184" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-20: 0 public activity points</title></rect>
+<rect x="184" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-21: 0 public activity points</title></rect>
+<rect x="184" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-22: 0 public activity points</title></rect>
+<rect x="184" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-23: 0 public activity points</title></rect>
+<rect x="200" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-24: 0 public activity points</title></rect>
+<rect x="200" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-25: 0 public activity points</title></rect>
+<rect x="200" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-26: 0 public activity points</title></rect>
+<rect x="200" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-27: 0 public activity points</title></rect>
+<rect x="200" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-28: 0 public activity points</title></rect>
+<rect x="200" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-29: 0 public activity points</title></rect>
+<rect x="200" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-30: 0 public activity points</title></rect>
+<rect x="216" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-08-31: 0 public activity points</title></rect>
+<rect x="216" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-01: 0 public activity points</title></rect>
+<rect x="216" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-02: 0 public activity points</title></rect>
+<rect x="216" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-03: 0 public activity points</title></rect>
+<rect x="216" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-04: 0 public activity points</title></rect>
+<rect x="216" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-05: 0 public activity points</title></rect>
+<rect x="216" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-06: 0 public activity points</title></rect>
+<rect x="232" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-07: 0 public activity points</title></rect>
+<rect x="232" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-08: 0 public activity points</title></rect>
+<rect x="232" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-09: 0 public activity points</title></rect>
+<rect x="232" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-10: 0 public activity points</title></rect>
+<rect x="232" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-11: 0 public activity points</title></rect>
+<rect x="232" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-12: 0 public activity points</title></rect>
+<rect x="232" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-13: 0 public activity points</title></rect>
+<rect x="248" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-14: 0 public activity points</title></rect>
+<rect x="248" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-15: 0 public activity points</title></rect>
+<rect x="248" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-16: 0 public activity points</title></rect>
+<rect x="248" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-17: 0 public activity points</title></rect>
+<rect x="248" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-18: 0 public activity points</title></rect>
+<rect x="248" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-19: 0 public activity points</title></rect>
+<rect x="248" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-20: 0 public activity points</title></rect>
+<rect x="264" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-21: 0 public activity points</title></rect>
+<rect x="264" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-22: 0 public activity points</title></rect>
+<rect x="264" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-23: 0 public activity points</title></rect>
+<rect x="264" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-24: 0 public activity points</title></rect>
+<rect x="264" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-25: 0 public activity points</title></rect>
+<rect x="264" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-26: 0 public activity points</title></rect>
+<rect x="264" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-27: 0 public activity points</title></rect>
+<rect x="280" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-28: 0 public activity points</title></rect>
+<rect x="280" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-29: 0 public activity points</title></rect>
+<rect x="280" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-09-30: 0 public activity points</title></rect>
+<rect x="280" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-01: 0 public activity points</title></rect>
+<rect x="280" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-02: 0 public activity points</title></rect>
+<rect x="280" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-03: 0 public activity points</title></rect>
+<rect x="280" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-04: 0 public activity points</title></rect>
+<rect x="296" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-05: 0 public activity points</title></rect>
+<rect x="296" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-06: 0 public activity points</title></rect>
+<rect x="296" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-07: 0 public activity points</title></rect>
+<rect x="296" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-08: 0 public activity points</title></rect>
+<rect x="296" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-09: 0 public activity points</title></rect>
+<rect x="296" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-10: 0 public activity points</title></rect>
+<rect x="296" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-11: 0 public activity points</title></rect>
+<rect x="312" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-12: 0 public activity points</title></rect>
+<rect x="312" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-13: 0 public activity points</title></rect>
+<rect x="312" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-14: 0 public activity points</title></rect>
+<rect x="312" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-15: 0 public activity points</title></rect>
+<rect x="312" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-16: 0 public activity points</title></rect>
+<rect x="312" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-17: 0 public activity points</title></rect>
+<rect x="312" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-18: 0 public activity points</title></rect>
+<rect x="328" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-19: 0 public activity points</title></rect>
+<rect x="328" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-20: 0 public activity points</title></rect>
+<rect x="328" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-21: 0 public activity points</title></rect>
+<rect x="328" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-22: 0 public activity points</title></rect>
+<rect x="328" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-23: 0 public activity points</title></rect>
+<rect x="328" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-24: 0 public activity points</title></rect>
+<rect x="328" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-25: 0 public activity points</title></rect>
+<rect x="344" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-26: 0 public activity points</title></rect>
+<rect x="344" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-27: 0 public activity points</title></rect>
+<rect x="344" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-28: 0 public activity points</title></rect>
+<rect x="344" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-29: 0 public activity points</title></rect>
+<rect x="344" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-30: 0 public activity points</title></rect>
+<rect x="344" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-10-31: 0 public activity points</title></rect>
+<rect x="344" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-01: 0 public activity points</title></rect>
+<rect x="360" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-02: 0 public activity points</title></rect>
+<rect x="360" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-03: 0 public activity points</title></rect>
+<rect x="360" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-04: 0 public activity points</title></rect>
+<rect x="360" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-05: 0 public activity points</title></rect>
+<rect x="360" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-06: 0 public activity points</title></rect>
+<rect x="360" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-07: 0 public activity points</title></rect>
+<rect x="360" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-08: 0 public activity points</title></rect>
+<rect x="376" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-09: 0 public activity points</title></rect>
+<rect x="376" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-10: 0 public activity points</title></rect>
+<rect x="376" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-11: 0 public activity points</title></rect>
+<rect x="376" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-12: 0 public activity points</title></rect>
+<rect x="376" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-13: 0 public activity points</title></rect>
+<rect x="376" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-14: 0 public activity points</title></rect>
+<rect x="376" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-15: 0 public activity points</title></rect>
+<rect x="392" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-16: 0 public activity points</title></rect>
+<rect x="392" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-17: 0 public activity points</title></rect>
+<rect x="392" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-18: 0 public activity points</title></rect>
+<rect x="392" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-19: 0 public activity points</title></rect>
+<rect x="392" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-20: 0 public activity points</title></rect>
+<rect x="392" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-21: 0 public activity points</title></rect>
+<rect x="392" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-22: 0 public activity points</title></rect>
+<rect x="408" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-23: 0 public activity points</title></rect>
+<rect x="408" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-24: 0 public activity points</title></rect>
+<rect x="408" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-25: 0 public activity points</title></rect>
+<rect x="408" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-26: 0 public activity points</title></rect>
+<rect x="408" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-27: 0 public activity points</title></rect>
+<rect x="408" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-28: 0 public activity points</title></rect>
+<rect x="408" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-29: 0 public activity points</title></rect>
+<rect x="424" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-11-30: 0 public activity points</title></rect>
+<rect x="424" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-01: 0 public activity points</title></rect>
+<rect x="424" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-02: 0 public activity points</title></rect>
+<rect x="424" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-03: 0 public activity points</title></rect>
+<rect x="424" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-04: 0 public activity points</title></rect>
+<rect x="424" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-05: 0 public activity points</title></rect>
+<rect x="424" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-06: 0 public activity points</title></rect>
+<rect x="440" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-07: 0 public activity points</title></rect>
+<rect x="440" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-08: 0 public activity points</title></rect>
+<rect x="440" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-09: 0 public activity points</title></rect>
+<rect x="440" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-10: 0 public activity points</title></rect>
+<rect x="440" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-11: 0 public activity points</title></rect>
+<rect x="440" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-12: 0 public activity points</title></rect>
+<rect x="440" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-13: 0 public activity points</title></rect>
+<rect x="456" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-14: 0 public activity points</title></rect>
+<rect x="456" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-15: 0 public activity points</title></rect>
+<rect x="456" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-16: 0 public activity points</title></rect>
+<rect x="456" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-17: 0 public activity points</title></rect>
+<rect x="456" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-18: 0 public activity points</title></rect>
+<rect x="456" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-19: 0 public activity points</title></rect>
+<rect x="456" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-20: 0 public activity points</title></rect>
+<rect x="472" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-21: 0 public activity points</title></rect>
+<rect x="472" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-22: 0 public activity points</title></rect>
+<rect x="472" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-23: 0 public activity points</title></rect>
+<rect x="472" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-24: 0 public activity points</title></rect>
+<rect x="472" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-25: 0 public activity points</title></rect>
+<rect x="472" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-26: 0 public activity points</title></rect>
+<rect x="472" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-27: 0 public activity points</title></rect>
+<rect x="488" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-28: 0 public activity points</title></rect>
+<rect x="488" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-29: 0 public activity points</title></rect>
+<rect x="488" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-30: 0 public activity points</title></rect>
+<rect x="488" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2025-12-31: 0 public activity points</title></rect>
+<rect x="488" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-01: 0 public activity points</title></rect>
+<rect x="488" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-02: 0 public activity points</title></rect>
+<rect x="488" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-03: 0 public activity points</title></rect>
+<rect x="504" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-04: 0 public activity points</title></rect>
+<rect x="504" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-05: 0 public activity points</title></rect>
+<rect x="504" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-06: 0 public activity points</title></rect>
+<rect x="504" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-07: 0 public activity points</title></rect>
+<rect x="504" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-08: 0 public activity points</title></rect>
+<rect x="504" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-09: 0 public activity points</title></rect>
+<rect x="504" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-10: 0 public activity points</title></rect>
+<rect x="520" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-11: 0 public activity points</title></rect>
+<rect x="520" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-12: 0 public activity points</title></rect>
+<rect x="520" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-13: 0 public activity points</title></rect>
+<rect x="520" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-14: 0 public activity points</title></rect>
+<rect x="520" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-15: 0 public activity points</title></rect>
+<rect x="520" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-16: 0 public activity points</title></rect>
+<rect x="520" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-17: 0 public activity points</title></rect>
+<rect x="536" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-18: 0 public activity points</title></rect>
+<rect x="536" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-19: 0 public activity points</title></rect>
+<rect x="536" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-20: 0 public activity points</title></rect>
+<rect x="536" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-21: 0 public activity points</title></rect>
+<rect x="536" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-22: 0 public activity points</title></rect>
+<rect x="536" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-23: 0 public activity points</title></rect>
+<rect x="536" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-24: 0 public activity points</title></rect>
+<rect x="552" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-25: 0 public activity points</title></rect>
+<rect x="552" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-26: 0 public activity points</title></rect>
+<rect x="552" y="124" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2" stroke-width="1"><title>2026-01-27: 2 public activity points / e2b-go</title></rect>
+<rect x="552" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-28: 0 public activity points</title></rect>
+<rect x="552" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-29: 0 public activity points</title></rect>
+<rect x="552" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-30: 0 public activity points</title></rect>
+<rect x="552" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-01-31: 0 public activity points</title></rect>
+<rect x="568" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-01: 0 public activity points</title></rect>
+<rect x="568" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-02: 0 public activity points</title></rect>
+<rect x="568" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-03: 0 public activity points</title></rect>
+<rect x="568" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-04: 0 public activity points</title></rect>
+<rect x="568" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-05: 0 public activity points</title></rect>
+<rect x="568" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-06: 0 public activity points</title></rect>
+<rect x="568" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-07: 0 public activity points</title></rect>
+<rect x="584" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-08: 0 public activity points</title></rect>
+<rect x="584" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-09: 0 public activity points</title></rect>
+<rect x="584" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-10: 0 public activity points</title></rect>
+<rect x="584" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-11: 0 public activity points</title></rect>
+<rect x="584" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-12: 0 public activity points</title></rect>
+<rect x="584" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-13: 0 public activity points</title></rect>
+<rect x="584" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-14: 0 public activity points</title></rect>
+<rect x="600" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-15: 0 public activity points</title></rect>
+<rect x="600" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-16: 0 public activity points</title></rect>
+<rect x="600" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-17: 0 public activity points</title></rect>
+<rect x="600" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-18: 0 public activity points</title></rect>
+<rect x="600" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-19: 0 public activity points</title></rect>
+<rect x="600" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-20: 0 public activity points</title></rect>
+<rect x="600" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-21: 0 public activity points</title></rect>
+<rect x="616" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-22: 0 public activity points</title></rect>
+<rect x="616" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-23: 0 public activity points</title></rect>
+<rect x="616" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-24: 0 public activity points</title></rect>
+<rect x="616" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-25: 0 public activity points</title></rect>
+<rect x="616" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-26: 0 public activity points</title></rect>
+<rect x="616" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-27: 0 public activity points</title></rect>
+<rect x="616" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-02-28: 0 public activity points</title></rect>
+<rect x="632" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-01: 0 public activity points</title></rect>
+<rect x="632" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-02: 0 public activity points</title></rect>
+<rect x="632" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-03: 0 public activity points</title></rect>
+<rect x="632" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-04: 0 public activity points</title></rect>
+<rect x="632" y="156" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2" stroke-width="1"><title>2026-03-05: 3 public activity points / e2b-go</title></rect>
+<rect x="632" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-06: 0 public activity points</title></rect>
+<rect x="632" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-07: 0 public activity points</title></rect>
+<rect x="648" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-08: 0 public activity points</title></rect>
+<rect x="648" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-09: 0 public activity points</title></rect>
+<rect x="648" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-10: 0 public activity points</title></rect>
+<rect x="648" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-11: 0 public activity points</title></rect>
+<rect x="648" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-12: 0 public activity points</title></rect>
+<rect x="648" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-13: 0 public activity points</title></rect>
+<rect x="648" y="188" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2" stroke-width="1"><title>2026-03-14: 1 public activity points / e2b-go</title></rect>
+<rect x="664" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-15: 0 public activity points</title></rect>
+<rect x="664" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-16: 0 public activity points</title></rect>
+<rect x="664" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-17: 0 public activity points</title></rect>
+<rect x="664" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-18: 0 public activity points</title></rect>
+<rect x="664" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-19: 0 public activity points</title></rect>
+<rect x="664" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-20: 0 public activity points</title></rect>
+<rect x="664" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-21: 0 public activity points</title></rect>
+<rect x="680" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-22: 0 public activity points</title></rect>
+<rect x="680" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-23: 0 public activity points</title></rect>
+<rect x="680" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-24: 0 public activity points</title></rect>
+<rect x="680" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-25: 0 public activity points</title></rect>
+<rect x="680" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-26: 0 public activity points</title></rect>
+<rect x="680" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-27: 0 public activity points</title></rect>
+<rect x="680" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-28: 0 public activity points</title></rect>
+<rect x="696" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-29: 0 public activity points</title></rect>
+<rect x="696" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-30: 0 public activity points</title></rect>
+<rect x="696" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-03-31: 0 public activity points</title></rect>
+<rect x="696" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-01: 0 public activity points</title></rect>
+<rect x="696" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-02: 0 public activity points</title></rect>
+<rect x="696" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-03: 0 public activity points</title></rect>
+<rect x="696" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-04: 0 public activity points</title></rect>
+<rect x="712" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-05: 0 public activity points</title></rect>
+<rect x="712" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-06: 0 public activity points</title></rect>
+<rect x="712" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-07: 0 public activity points</title></rect>
+<rect x="712" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-08: 0 public activity points</title></rect>
+<rect x="712" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-09: 0 public activity points</title></rect>
+<rect x="712" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-10: 0 public activity points</title></rect>
+<rect x="712" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-11: 0 public activity points</title></rect>
+<rect x="728" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-12: 0 public activity points</title></rect>
+<rect x="728" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-13: 0 public activity points</title></rect>
+<rect x="728" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-14: 0 public activity points</title></rect>
+<rect x="728" y="140" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2" stroke-width="1"><title>2026-04-15: 3 public activity points / ui-design</title></rect>
+<rect x="728" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-16: 0 public activity points</title></rect>
+<rect x="728" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-17: 0 public activity points</title></rect>
+<rect x="728" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-18: 0 public activity points</title></rect>
+<rect x="744" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-19: 0 public activity points</title></rect>
+<rect x="744" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-20: 0 public activity points</title></rect>
+<rect x="744" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-21: 0 public activity points</title></rect>
+<rect x="744" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-22: 0 public activity points</title></rect>
+<rect x="744" y="156" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2" stroke-width="1"><title>2026-04-23: 6 public activity points / linkup-feedback</title></rect>
+<rect x="744" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-24: 0 public activity points</title></rect>
+<rect x="744" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-25: 0 public activity points</title></rect>
+<rect x="760" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-26: 0 public activity points</title></rect>
+<rect x="760" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-27: 0 public activity points</title></rect>
+<rect x="760" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-28: 0 public activity points</title></rect>
+<rect x="760" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-29: 0 public activity points</title></rect>
+<rect x="760" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-04-30: 0 public activity points</title></rect>
+<rect x="760" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-01: 0 public activity points</title></rect>
+<rect x="760" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-02: 0 public activity points</title></rect>
+<rect x="776" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-03: 0 public activity points</title></rect>
+<rect x="776" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-04: 0 public activity points</title></rect>
+<rect x="776" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-05: 0 public activity points</title></rect>
+<rect x="776" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-06: 0 public activity points</title></rect>
+<rect x="776" y="156" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2" stroke-width="1"><title>2026-05-07: 2 public activity points / xerness-intro</title></rect>
+<rect x="776" y="172" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2" stroke-width="1"><title>2026-05-08: 3 public activity points / xagent-contracts</title></rect>
+<rect x="776" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-09: 0 public activity points</title></rect>
+<rect x="792" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-10: 0 public activity points</title></rect>
+<rect x="792" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-11: 0 public activity points</title></rect>
+<rect x="792" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-12: 0 public activity points</title></rect>
+<rect x="792" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-13: 0 public activity points</title></rect>
+<rect x="792" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-14: 0 public activity points</title></rect>
+<rect x="792" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-15: 0 public activity points</title></rect>
+<rect x="792" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-16: 0 public activity points</title></rect>
+<rect x="808" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-17: 0 public activity points</title></rect>
+<rect x="808" y="108" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2" stroke-width="1"><title>2026-05-18: 3 public activity points / xagent-contracts</title></rect>
+<rect x="808" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-19: 0 public activity points</title></rect>
+<rect x="808" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-20: 0 public activity points</title></rect>
+<rect x="808" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-21: 0 public activity points</title></rect>
+<rect x="808" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-22: 0 public activity points</title></rect>
+<rect x="808" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-23: 0 public activity points</title></rect>
+<rect x="824" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-24: 0 public activity points</title></rect>
+<rect x="824" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-25: 0 public activity points</title></rect>
+<rect x="824" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-26: 0 public activity points</title></rect>
+<rect x="824" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-27: 0 public activity points</title></rect>
+<rect x="824" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-28: 0 public activity points</title></rect>
+<rect x="824" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-29: 0 public activity points</title></rect>
+<rect x="824" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-30: 0 public activity points</title></rect>
+<rect x="840" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-05-31: 0 public activity points</title></rect>
+<rect x="840" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-01: 0 public activity points</title></rect>
+<rect x="840" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-02: 0 public activity points</title></rect>
+<rect x="840" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-03: 0 public activity points</title></rect>
+<rect x="840" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-04: 0 public activity points</title></rect>
+<rect x="840" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-05: 0 public activity points</title></rect>
+<rect x="840" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-06: 0 public activity points</title></rect>
+<rect x="856" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-07: 0 public activity points</title></rect>
+<rect x="856" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-08: 0 public activity points</title></rect>
+<rect x="856" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-09: 0 public activity points</title></rect>
+<rect x="856" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-10: 0 public activity points</title></rect>
+<rect x="856" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-11: 0 public activity points</title></rect>
+<rect x="856" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-12: 0 public activity points</title></rect>
+<rect x="856" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-13: 0 public activity points</title></rect>
+<rect x="872" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-14: 0 public activity points</title></rect>
+<rect x="872" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-15: 0 public activity points</title></rect>
+<rect x="872" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-16: 0 public activity points</title></rect>
+<rect x="872" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-17: 0 public activity points</title></rect>
+<rect x="872" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-18: 0 public activity points</title></rect>
+<rect x="872" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-19: 0 public activity points</title></rect>
+<rect x="872" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-20: 0 public activity points</title></rect>
+<rect x="888" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-21: 0 public activity points</title></rect>
+<rect x="888" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-22: 0 public activity points</title></rect>
+<rect x="888" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-23: 0 public activity points</title></rect>
+<rect x="888" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-24: 0 public activity points</title></rect>
+<rect x="888" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-25: 0 public activity points</title></rect>
+<rect x="888" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-26: 0 public activity points</title></rect>
+<rect x="888" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-27: 0 public activity points</title></rect>
+<rect x="904" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-28: 0 public activity points</title></rect>
+<rect x="904" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-29: 0 public activity points</title></rect>
+<rect x="904" y="124" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-06-30: 0 public activity points</title></rect>
+<rect x="904" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-07-01: 0 public activity points</title></rect>
+<rect x="904" y="156" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-07-02: 0 public activity points</title></rect>
+<rect x="904" y="172" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-07-03: 0 public activity points</title></rect>
+<rect x="904" y="188" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-07-04: 0 public activity points</title></rect>
+<rect x="920" y="92" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-07-05: 0 public activity points</title></rect>
+<rect x="920" y="108" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-07-06: 0 public activity points</title></rect>
+<rect x="920" y="124" width="12" height="12" rx="2" fill="#2EAF72" stroke="#DDE8E2" stroke-width="1"><title>2026-07-07: 41 public activity points / .github, ui-design, xagent-contracts</title></rect>
+<rect x="920" y="140" width="12" height="12" rx="2" fill="#F5F7F6" stroke="#DDE8E2" stroke-width="1"><title>2026-07-08: 0 public activity points</title></rect>
+<rect x="920" y="156" width="12" height="12" rx="2" fill="#FBFCFB" stroke="#F1F3F2" stroke-width="1"><title>2026-07-09: 0 public activity points</title></rect>
+<rect x="920" y="172" width="12" height="12" rx="2" fill="#FBFCFB" stroke="#F1F3F2" stroke-width="1"><title>2026-07-10: 0 public activity points</title></rect>
+<rect x="920" y="188" width="12" height="12" rx="2" fill="#FBFCFB" stroke="#F1F3F2" stroke-width="1"><title>2026-07-11: 0 public activity points</title></rect>
+<path d="M34 218H1022" stroke="#667A70" stroke-opacity=".12"/>
+<text x="34" y="230" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="10" letter-spacing="2" fill="#8A8A8A">SOURCE: GITHUB PUBLIC ORG EVENTS + PUBLIC REPOSITORY TIMESTAMPS</text>
+<text x="796" y="230" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">LESS</text>
+<rect x="840" y="220" width="12" height="12" rx="2" fill="#EEF8F2" stroke="#DDE8E2"/>
+<rect x="858" y="220" width="12" height="12" rx="2" fill="#D9F4E5" stroke="#DDE8E2"/>
+<rect x="876" y="220" width="12" height="12" rx="2" fill="#A8ECCB" stroke="#DDE8E2"/>
+<rect x="894" y="220" width="12" height="12" rx="2" fill="#69DEA2" stroke="#DDE8E2"/>
+<rect x="912" y="220" width="12" height="12" rx="2" fill="#2EAF72" stroke="#DDE8E2"/>
+<text x="940" y="230" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, monospace" font-size="9" letter-spacing="1.5" fill="#A0A0A0">MORE</text>
+</svg>
