@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.svg" alt="XAgent - AI-native agent platform" width="100%">
+  <img src="./651357e1-5f77-4b97-8dfb-da08d56e586a.png" alt="XAgent - AI-native agent platform" width="100%">
 </div>
 
 <p align="center">
@@ -58,12 +58,6 @@ XAgent is designed as a product stack, not a single repository. The public surfa
 | [OKX Agent Marketplace](https://www.okx.ai/zh-hans/agents/2183) | Live marketplace listing for on-chain intelligence skills | live service |
 | [okx-agent-marketplace](https://github.com/xagentAI/okx-agent-marketplace) | First-party on-chain intelligence skills and partner integrations | private |
 | XAgent core · orchestrator | Builder pipeline, runtime coordination, billing, and infra | private · NDA |
-
-## How It Works
-
-<div align="center">
-  <img src="./651357e1-5f77-4b97-8dfb-da08d56e586a.png" alt="XAgent agent operating system workflow with mascot, runtime, marketplace, and x402 settlement" width="100%">
-</div>
 
 ## Activity
 
