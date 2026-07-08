@@ -25,26 +25,39 @@
 
 ## What We Are Building
 
-XAgent is an AI-native agent platform for builders who want to move from idea to usable software without turning every workflow into an engineering project. Describe the agent, connect its tools, publish it, and let the product carry its own usage and payment loop.
+XAgent is an AI-native agent platform for turning intent into usable software. The builder describes the agent; the runtime gives it memory, tools, and execution; the marketplace makes it discoverable; settlement lets usage become a product loop.
 
-<table>
-  <tr>
-    <td width="25%" valign="top"><b>Builder</b><br><sub>Natural language to working agent products.</sub></td>
-    <td width="25%" valign="top"><b>Runtime</b><br><sub>Hosted agents with memory, tools, and wallet-aware execution.</sub></td>
-    <td width="25%" valign="top"><b>Marketplace</b><br><sub>Distribution for agents that other people can discover and use.</sub></td>
-    <td width="25%" valign="top"><b>Settlement</b><br><sub>Usage and monetization rails designed around x402.</sub></td>
-  </tr>
-</table>
+<p>
+  <sub><b>BUILD</b></sub><br>
+  Natural-language product intent becomes an agent people can actually use.
+</p>
+
+<p>
+  <sub><b>RUN</b></sub><br>
+  Agents operate with context, tools, wallets, and hosted execution.
+</p>
+
+<p>
+  <sub><b>DISTRIBUTE</b></sub><br>
+  Published agents become discoverable, shareable, and reusable.
+</p>
+
+<p>
+  <sub><b>SETTLE</b></sub><br>
+  Usage and monetization are designed around x402 from the start.
+</p>
 
 ## Product Surface
 
-| Area | Role |
-| :--- | :--- |
-| **XAgent** | The product layer for creating, running, publishing, and monetizing agents. |
-| **Xerness** | Multi-agent orchestration infrastructure for turning requirements into runnable systems. |
-| **Xpense** | Payment and budget tooling for approvals, usage, and agent settlement flows. |
-| **XAGT Plugin** | Wallet and marketplace extension surface for agent-native commerce. |
-| **Agent Marketplace** | Distribution layer for first-party and community agent skills. |
+**XAgent** is the product layer: create, run, publish, and monetize agents.
+
+**Xerness** is the orchestration layer: turn requirements into runnable multi-agent systems.
+
+**Xpense** is the payment layer: budgets, approvals, usage, and settlement.
+
+**XAGT Plugin** extends the wallet and marketplace surface for agent-native commerce.
+
+**Agent Marketplace** is the distribution layer for first-party and community agent skills.
 
 ## Activity
 
