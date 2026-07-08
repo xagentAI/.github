@@ -61,17 +61,9 @@ Guides and step-by-step tutorials for XAgent live at [docs.xagt.ai](https://docs
 
 ## How It Works
 
-```text
-plain language  ->  Builder  ->  hosted agent product
-                      |
-                      v
-Runtime (acts · remembers · tools · wallet · accounts)
-                      |
-                      v
-Marketplace  ->  Monetize  ->  x402 settle on-chain
-------------------------------------------------------
-xagent-contracts verified · builder pipeline private (NDA)
-```
+<div align="center">
+  <img src="./how-it-works.svg" alt="XAgent runtime pipeline from intent to hosted agent product and x402 settlement" width="100%">
+</div>
 
 ## Activity
 
