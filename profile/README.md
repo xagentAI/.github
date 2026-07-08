@@ -56,7 +56,6 @@ XAgent is designed as a product stack, not a single repository. The public surfa
 | [xagt-plugin](https://github.com/xagentAI/xagt-plugin) | OKX Agentic Wallet plugin marketplace surface | public |
 | [xagent-contracts](https://github.com/xagentAI/xagent-contracts) | On-chain contracts for reward points and usage flows | public |
 | [OKX Agent Marketplace](https://www.okx.ai/zh-hans/agents/2183) | Live marketplace listing for on-chain intelligence skills | live service |
-| [okx-agent-marketplace](https://github.com/xagentAI/okx-agent-marketplace) | First-party on-chain intelligence skills and partner integrations | private |
 | XAgent core · orchestrator | Builder pipeline, runtime coordination, billing, and infra | private · NDA |
 
 ## Activity
