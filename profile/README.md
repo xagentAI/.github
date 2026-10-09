@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="XAgent - AI-native agent platform" width="100%">
+  <img src="./banner.png" alt="XAgent — build agent products with tools, wallets and x402 payments" width="100%">
 </div>
 
 <p align="center">
@@ -56,13 +56,6 @@ XAgent is designed as a product stack, not a single repository. The public surfa
 | [xagt-plugin](https://github.com/xagentAI/xagt-plugin) | OKX Agentic Wallet plugin marketplace surface | public |
 | [xagent-contracts](https://github.com/xagentAI/xagent-contracts) | On-chain contracts for reward points and usage flows | public |
 | [OKX Agent Marketplace](https://www.okx.ai/zh-hans/agents/2183) | Live marketplace listing for on-chain intelligence skills | live service |
-| XAgent core · orchestrator | Builder pipeline, runtime coordination, billing, and infra | private · NDA |
-
-## Activity
-
-<div align="center">
-  <img src="./activity-calendar.svg" alt="XAgent organization engineering activity calendar" width="100%">
-</div>
 
 ## Find Us
 
