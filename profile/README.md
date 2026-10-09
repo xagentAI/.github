@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="XAgent - AI-native agent platform" width="100%">
+  <img src="./banner.png" alt="XAgent — build agent products with tools, wallets and x402 payments" width="100%">
 </div>
 
 <p align="center">
